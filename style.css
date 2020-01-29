@@ -1,0 +1,73 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+.container {
+    display: flex;
+    flex-flow: row wrap;
+    width: 40rem;
+    height: 50rem;
+}
+
+.clearButton {
+    display: flex;
+    flex-wrap: wrap;
+    height: 10rem;
+    width: 10rem;
+    background-color: #64B255;
+
+}
+
+.numberButtons {
+    display: flex;
+    flex-wrap: wrap;
+    height: 10rem;
+    width: 10rem;
+
+}
+
+.readout {
+    display: flex;
+    flex-wrap: wrap;
+    height: 10rem;
+    width: 30rem;
+}
+
+.divideButton {
+    display: flex;
+    flex-wrap: wrap;
+    height: 10rem;
+    width: 10rem;
+}
+
+.multiplyButton {
+    display: flex;
+    flex-wrap: wrap;
+    height: 10rem;
+    width: 10rem;
+}
+
+.addButton {
+    display: flex;
+    flex-wrap: wrap;
+    height: 10rem;
+    width: 10rem;
+}
+
+.subtractButton {
+    display: flex;
+    flex-wrap: wrap;
+    height: 10rem;
+    width: 10rem;
+}
+
+.equalsButton {
+    display: flex;
+    flex-wrap: wrap;
+    height: 10rem;
+    width: 10rem;
+}
+
